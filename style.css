@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    font-family: 'Style Script', cursive;
+}
+.heading{
+font-size: 23;
+width: 100%;
+margin: 0;
+box-shadow: 5px 5px 5px grey;
+}
+.note {
+    font-size: 15px;
+    color: red;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    color: white;
+    background-color: grey;
+    width: 100%;
+    float: none;
+    text-align: center;
+    line-height: 2;
+
+}
